@@ -1,0 +1,15 @@
+.form-container{
+    max-width: 380px;
+      margin: auto;
+      background: #fff;
+      padding: 30px 25px;
+      border-radius: 10px;
+      border: 1px solid #ddd;
+}
+.small-text a {
+      text-decoration: none;
+    }
+
+    .form-text {
+      font-size: 0.85rem;
+    }
